@@ -19507,3 +19507,27 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1606977284174	Marionette	INFO	Stopped listening on port 36683
 1606977284887	Marionette	INFO	Stopped listening on port 34337
 1606977285629	Marionette	INFO	Stopped listening on port 40749
+1607319068232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePasS0t"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607319070598	Marionette	INFO	Listening on port 45123
+1607319070663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1607319088989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSS2fLL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607319090990	Marionette	INFO	Listening on port 38173
+1607319091087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607319104687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletZT6L2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607319107756	Marionette	INFO	Listening on port 44201
+1607319107821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607319121046	Marionette	INFO	Stopped listening on port 44201
+1607319122916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAGfxUd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607319124688	Marionette	INFO	Listening on port 35769
+1607319124933	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/5.9.2/firebase-messaging.js, line 1: uncaught exception: FirebaseError: Messaging: This browser doesn't support the API's required to use the firebase SDK. (messaging/unsupported-browser).
+JavaScript error: https://www.webteb.com/pushnotifications/tokenmanager, line 179: ReferenceError: can't access lexical declaration 'messaging' before initialization
+JavaScript error: https://www.webteb.com/pushnotifications/tokenmanager, line 205: ReferenceError: can't access lexical declaration 'messaging' before initialization
+1607319205154	Marionette	INFO	Stopped listening on port 35769
+1607319205745	Marionette	INFO	Stopped listening on port 38173
+1607319205902	Marionette	INFO	Stopped listening on port 45123
